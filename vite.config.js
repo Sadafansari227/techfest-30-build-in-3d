@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 
 export default defineConfig({
+  base: '/techfest-30-build-in-3d/',
   plugins: [react()],
   resolve: {
     alias: {
