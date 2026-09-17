@@ -39,7 +39,7 @@ The application places the visitor directly inside a sci-fi digital environment 
 4. **3D Interactive Domain Cards**:
    - 3D tilt perspective cards for AI, Robotics, Cyber Tech, and Future Engineering with cursor light reflection and glassmorphic panels.
 5. **Procedural Particle Universe**:
-   - 1,100+ particle cloud with additive blending, reacting to cursor movement and scroll velocity without frame drops.
+   - 1,100 particle cloud with additive blending, reacting to cursor movement and scroll velocity without frame drops.
 6. **Innovation Journey Vertical Timeline**:
    - 5-stage interactive stepper: `IDEA ➔ CREATE ➔ BUILD ➔ COMPETE ➔ IMPACT`.
 7. **Dramatic Final 3D CTA**:
